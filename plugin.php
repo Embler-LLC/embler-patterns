@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Custom Patterns
  * Description:       A collection of custom WordPress block patterns for the Embler network of sites.
- * Version:           1.0.2
+ * Version:           1.0.3
  * Author:            Angelia Embler
  * Author URI:        https://embler.com
  * GitHub Plugin URI: https://github.com/Embler-LLC/embler-patterns/
@@ -23,7 +23,7 @@ function embler_plugin_register_custom_pattern_categories() {
 
 add_action( 'init', 'embler_plugin_register_custom_patterns' );
 function embler_plugin_register_custom_patterns() {
-
+if ( defined('ULTIMATE_BLOCKS_VERSION') ) {
 // Moview review
   register_block_pattern(
     'embler-patterns/movie-review',
@@ -34,7 +34,7 @@ function embler_plugin_register_custom_patterns() {
       'categories'  => array( 'embler-network', 'embler-reviews' ),
       )
     );
-
+}
 // Book review
     register_block_pattern(
       'embler-patterns/book-review',
