@@ -35,7 +35,6 @@ function embler_plugin_register_custom_patterns() {
       'categories'  => array( 'embler-network', 'embler-reviews' ),
       )
     );
-}
 
 // Book review
     register_block_pattern(
