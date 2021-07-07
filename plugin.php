@@ -6,7 +6,7 @@
  * Author:            Angelia Embler
  * Author URI:        https://embler.com
  * GitHub Plugin URI: https://github.com/Embler-LLC/embler-patterns/
- * Primary Branch:    v2
+ * Primary Branch:    main
  */
 
 add_action('init', 'embler_register_custom_pattern_categories');
