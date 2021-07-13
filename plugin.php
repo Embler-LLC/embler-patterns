@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Custom Patterns
  * Description:       A collection of custom WordPress block patterns for the Embler network of sites.
- * Version:           2.1
+ * Version:           2.2
  * Author:            Angelia Embler
  * Author URI:        https://embler.com
  * GitHub Plugin URI: https://github.com/Embler-LLC/embler-patterns/
