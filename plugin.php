@@ -3,10 +3,10 @@
  * Plugin Name:       Custom Patterns
  * Description:       A collection of custom WordPress block patterns for the Embler network of sites.
  * Version:           2.5.2
+ * Requires at least: 5.8
+ * Requires PHP:      7.4.22
  * Author:            Angelia Embler
  * Author URI:        https://embler.com
- * Requires at least: 5.6
- * Requires PHP: 5.6.20
  * GitHub Plugin URI: https://github.com/Embler-LLC/embler-patterns/
  * Primary Branch:    main
  */
