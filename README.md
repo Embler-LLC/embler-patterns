@@ -19,6 +19,6 @@ A square image of the author is left-aligned, with the author's name, bio, and s
 ## Suggest a new pattern
 `pattern-template.php` includes an empty template for creating a new pattern. Please use this format when opening an issue to request a new pattern.
 
-ALternatively, you can submit a PR with the new pattern added to `plugin.php`. Please use placeholders when appropriate. Embedded images or media must be public domain.
+Alternatively, you can submit a PR with the new pattern added to `plugin.php`. Please use placeholders when appropriate. Embedded images or media must be in the public domain.
 
 ![Embler Patterns](https://github.com/Embler-LLC/embler-patterns/assets/8060612/3d3e3454-8a08-43ca-955d-d9399a96c175)
