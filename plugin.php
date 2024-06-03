@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Custom Patterns
  * Description:       A collection of custom WordPress block patterns for the Embler network of sites.
- * Version:           2.5.3
+ * Version:           2.5.4
  * Requires at least: 5.8
  * Requires PHP:      7.4.22
  * Author:            Angelia Embler
